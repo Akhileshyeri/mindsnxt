@@ -24,12 +24,22 @@ export default function TabNavigator({ navigation }) {
         tabBarInactiveTintColor: 'grey',
         headerRight: () => (
           <Button
-            mode="text"
+            mode="contained"
             onPress={() => navigation.navigate('Login')}
-            style={{ color: 'red' }}
+            style={{
+              backgroundColor: 'red',
+              paddingVertical: 10,
+              borderRadius: 5,
+            }}
+            labelStyle={{
+              color: 'white',
+              fontWeight: 'bold',
+              fontSize: 16,
+            }}
           >
             Logout
           </Button>
+
         ),
       })}
     >

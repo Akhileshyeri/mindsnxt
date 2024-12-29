@@ -9,8 +9,12 @@ export default function SignupScreen({ navigation }) {
   const [error, setError] = useState('');
 
   const handleLogin = () => {
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
     if (!email || !password) {
       setError('Please fill out both email and password.');
+    } else if (!emailRegex.test(email)) {
+      setError('Please enter a valid email address.');
     } else {
       setError('');
       navigation.navigate('Main');
