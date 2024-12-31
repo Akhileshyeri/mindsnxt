@@ -30,7 +30,7 @@ export default StyleSheet.create({
   input: {
     marginBottom: 20,
     width: '100%',
-    padding: 10,
+    padding: 2,
     borderWidth: 1,
     borderColor: '#CCCCCC',
     borderRadius: 8,
