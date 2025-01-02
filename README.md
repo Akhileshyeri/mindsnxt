@@ -52,6 +52,25 @@ Join our community of developers creating universal apps.
 
 
 
+## Problem Statement
+create login page using Expo React Native
+
+## Features
+- **Login Screen:** User authentication with username and password. Now connected to a database for proper verification
+- **Signup Screen:** New user registration with a back-to-login option.
+- **Navigation Bar:** To navigate between 3 pages, Home, User, and Notifications.
+
+
+
+## Execution
+- **Screens:**
+  - Login: Validates user credentials.
+  - Signup: Allows new users to register.
+  - Profile: Displays user details with a logout button.
+
+
+
+
 ** Expo react structure
 LoginApp/
 
