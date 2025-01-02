@@ -55,17 +55,17 @@ Join our community of developers creating universal apps.
 
 2.signup
 ![Screenshot 2025-01-02 144859](https://github.com/user-attachments/assets/64101c02-5d29-41f5-b8e0-4b916a93d5e8)
-  2.Home
+
+3.home
 ![Screenshot 2025-01-02 144024](https://github.com/user-attachments/assets/139aaf44-c8e8-4b79-a3d3-d80699067f14)
 
 
-3.profile
+4.profile
 ![Screenshot 2025-01-02 144711](https://github.com/user-attachments/assets/a5666468-eb2c-4511-932e-e17530e2ce1b)
 
 
-4.Notification
+5.Notification
 ![Screenshot 2025-01-02 144734](https://github.com/user-attachments/assets/c6e314cc-76f3-4644-bd19-6aa469256a06)
 
-5.Notification
-![Screenshot 2025-01-02 144859](https://github.com/user-attachments/assets/64101c02-5d29-41f5-b8e0-4b916a93d5e8)
+
 
