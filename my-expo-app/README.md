@@ -51,4 +51,5 @@ Join our community of developers creating universal apps.
 
 ![Screenshot 2025-01-02 144024](https://github.com/user-attachments/assets/139aaf44-c8e8-4b79-a3d3-d80699067f14)
 
+![Screenshot 2025-01-02 144711](https://github.com/user-attachments/assets/a5666468-eb2c-4511-932e-e17530e2ce1b)
 
