@@ -47,8 +47,7 @@ To learn more about developing your project with Expo, look at the following res
 Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.![Screenshot 2025-01-02 143819](https://github.com/user-attachments/assets/0577344d-5b3d-4883-b651-82ca99239b0f)
 
-- ![Screenshot (10)](https://github.com/user-attachments/assets/f67143ae-0dc7-4d30-92a9-8cad18903e74)
 
 
