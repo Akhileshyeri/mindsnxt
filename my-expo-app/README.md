@@ -54,6 +54,8 @@ Join our community of developers creating universal apps.
 
 ** Expo react structure
 LoginApp/
+
+
 ├── .expo/
 ├── assets/
 ├── node_modules/
